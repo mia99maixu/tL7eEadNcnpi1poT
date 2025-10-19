@@ -10,6 +10,8 @@ This project helps recruiters surface promising candidates for specific roles wh
 
 You can explore the logic in the notebook, call the ranking functions directly, or interact with a Streamlit app that works with the bundled demo data or your own CSV.
 
+- Deployed demo: https://potential-talent.streamlit.app/
+
 ## Data Schema
 
 The ranking pipeline expects a tabular dataset with the following columns:
